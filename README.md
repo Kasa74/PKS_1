@@ -1,16 +1,9 @@
-# myapp
+PKS 1
 
-A new Flutter project.
+Практическая работа 1
 
-## Getting Started
+Браузер:
+![image](https://github.com/user-attachments/assets/64b27c1b-9212-46ff-9973-5ad7718c2f09)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Эмулятор:
+![image](https://github.com/user-attachments/assets/51294b72-9f78-4a5d-9d06-7bc6dfefd300)
